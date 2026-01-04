@@ -1,6 +1,7 @@
 =>  Office Task Monitor 
 
-A full-stack real-time office task monitoring system designed to track tasks, users, and progress across teams with live updates and dashboards.
+A full-stack task monitoring system built using **Spring Boot, Kafka, WebSocket, MongoDB, and React**.  
+The application demonstrates an **event-driven architecture** with real-time updates, designed to resemble production-grade systems used in product-based companies
 
 => Features 
 
